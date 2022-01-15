@@ -2,37 +2,34 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About Us 
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: This is the home of The Pear Review YouTube Channel. 
+      - title: In each episode, the author of a scholarly article guides us through a deep dive of his or her research. 
+      - title: YouTube Channel
+        url: https://www.youtube.com/channel/UCBObbSewkVA5LQTUufMSWcw
 
-  - title: all posts
+      - title: Latest Video    
+      - title: '<iframe width="560" height="315" src="https://www.youtube.com/embed/GX-zT1cwxGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+
+  - title: Episode List 
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Episodes by Category 
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: Support the Show 
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: Purchase the Official Pear Review Mug 
+  - title: Contact
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Email
+        url: thepearreview@protonmail.com 
