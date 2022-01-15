@@ -2,21 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About The Pear Review 
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
+      - title: In The Pear Review, authors of scholarly articles takes us along for a deep dive of their research across many different fields. 
         url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: Episode List 
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Episodes by Category 
     post_list:
       category: example2
       show_more: true
@@ -26,13 +24,9 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: Support the show 
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Buy the Official Pear Review Mug 
+  - title: Contact
+      entries:
+        - For inquiries, or to join us for an episode send an email at thepearreview@protonmail.com
