@@ -5,10 +5,8 @@ entries:
   - title: About The Pear Review 
     entries:
       - title: In The Pear Review, authors of scholarly articles takes us along for a deep dive of their research across many different fields. 
-      - url: https://github.com/riggraz/no-style-please
+        url:  https://www.youtube.com/channel/UCBObbSewkVA5LQTUufMSWcw
 
-  - title: All Episodes 
-    post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
