@@ -7,7 +7,7 @@ entries:
       - title: In The Pear Review, authors of scholarly articles takes us along for a deep dive of their research across many different fields. 
         url: https://github.com/riggraz/no-style-please
 
-  - title: Episode List 
+  - title: All Episodes 
     post_list:
       limit: 5
       show_more: true
