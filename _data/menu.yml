@@ -6,6 +6,8 @@ entries:
     entries:
       - title: In The Pear Review, authors of scholarly articles takes us along for a deep dive of their research across many different fields. 
 
+  - title: Episode List 
+    post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
