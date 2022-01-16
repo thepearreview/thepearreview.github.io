@@ -9,4 +9,4 @@ We are joined again by Professor Douglas Farrow of McGill University to discuss 
 
 Original article: https://www.catholicworldreport.com/2...
 
-<iframe width="250" src="https://www.youtube.com/embed/01ZK7ZNipk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/01ZK7ZNipk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
