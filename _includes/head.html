@@ -5,6 +5,14 @@
 
   <img src="/assets/logo.svg" width="300px" style="padding-top:40px"></img>
 
+    <title>
+    {%- if page.title -%}
+      {{ page.title }}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
+  </title>
+
   {%-seo title=false-%}
   {%-feed_meta-%}
 
