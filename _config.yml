@@ -7,7 +7,7 @@ description: > # description of the site (multiple lines allowed)
   Home of The Pear Review Video Journal Club
 permalink: /:slug.html
 
-favicon: favicon.png 
+favicon: "favicon.png"
 
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
