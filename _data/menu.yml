@@ -11,7 +11,7 @@ entries:
 
   - title: Latest Video    
     entries:
-      - title: '<iframe width="560" height="315" src="https://www.youtube.com/embed/GX-zT1cwxGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+      - title: '<iframe width="250" src="https://www.youtube.com/embed/GX-zT1cwxGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
   - title: Episode List 
     post_list:
