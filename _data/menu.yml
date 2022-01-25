@@ -22,7 +22,7 @@ entries:
 
   - title: Episodes by Category 
   - entries:
-    -title: COVID-19
+    - title: COVID-19
     post_list:
       category: covid 
       show_more: true
