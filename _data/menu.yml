@@ -22,7 +22,7 @@ entries:
 
   - title: Episodes by Category 
     post_list:
-      category: blockchain 
+      category: covid 
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
