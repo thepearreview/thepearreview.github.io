@@ -15,17 +15,10 @@ entries:
 
   - title: Episode List 
     post_list:
-      limit: 3
+      limit: 4
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: Episodes by Category 
-    post_list:
-      category: covid 
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
 
   - title: Support the Show 
     entries:
