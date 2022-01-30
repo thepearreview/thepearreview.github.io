@@ -27,7 +27,7 @@ title: Guests
 **Organization** | [McGill University](https://www.mcgill.ca/)
 **Interests** | historical and systematic theology, theological anthropology and ethics, political Theology 
 **More info** | [homepage](https://www.mcgill.ca/religiousstudies/douglas-farrow) , [academia.edu](https://douglasfarrow.academia.edu) , [substack](https://douglasfarrow.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
-**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=01ZK7ZNipk0">#25 Striving for the common good in times of COVID</a></li><li><a href="https://www.youtube.com/watch?v=0WIosJFlzQo">#22 On the morality of vaccine mandates and passports</a></li><li><a href="https://www.youtube.com/watch?v=0WIosJFlzQo">#21 Whether there is a moral obligatioin to be vaccinated</a></li></ul>{:/}
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=01ZK7ZNipk0">#25 Striving for the common good in times of COVID</a></li><li><a href="https://www.youtube.com/watch?v=0WIosJFlzQo">#22 On the morality of vaccine mandates and passports</a></li><li><a href="https://www.youtube.com/watch?v=0WIosJFlzQo">#21 Whether there is a moral obligation to be vaccinated</a></li></ul>{:/}
 
 
 ## Massimiliano Iseppon
