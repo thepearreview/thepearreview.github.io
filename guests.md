@@ -18,7 +18,7 @@ title: Guests
 **Organization**|  [Parity Technologies](https://www.parity.io/)
 **Interests** | polkadot, decentralized web development
 **More info** | [linkedin](https://www.linkedin.com/in/marciodiaz/)
-** Episodes** | <ul> <li>[https://www.youtube.com/watch?v=e0oZRmzFSmQ&t=8s](#19 Intro to Polkadot and Substrate)</li></ul>
+**Episodes** | <ul> <li>[https://www.youtube.com/watch?v=e0oZRmzFSmQ&t=8s](#19 Intro to Polkadot and Substrate)</li></ul>
 
 
 ## Douglas Farrow
