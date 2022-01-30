@@ -20,6 +20,8 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
+  - title: Guests
+    url: guests.html
   - title: Support the Show 
     entries:
       - title: Purchase the Official Pear Review Mug 
