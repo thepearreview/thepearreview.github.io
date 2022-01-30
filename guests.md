@@ -5,35 +5,21 @@ title: Guests
 
 ## Claude Crepeau
 
-**Position:** Professor of Computer Science
+**Position** | Professor of Computer Science
+**Organization** | [McGill University](https://www.mcgill.ca/)
+**Interests** | cryptography, quantum computing
+**More info** | [homepage](https://www.cs.mcgill.ca/~crepeau/index_en.html)
+**Episodes** | [#24 Relativistic zero-knowledge proofs](https://thepearreview.com/relativistic-zero-knowledge-proofs.html)
 
-
-**Organization:** [McGill University](https://www.mcgill.ca/)
-
-
-**Interests:** cryptography, quantum computing
-
-
-**More info:** [homepage](https://www.cs.mcgill.ca/~crepeau/index_en.html)
-
-
-**Episodes:**
-
-* [#24 Relativistic zero-knowledge proofs](https://thepearreview.com/relativistic-zero-knowledge-proofs.html)
 
 ## Marcio Diaz
 
-**Position:** Blockchain software developer
+**Position** | Blockchain software developer
+**Organization**|  [Parity Technologies](https://www.parity.io/)
+**Interests** | polkadot, decentralized web development
+**More info** | [linkedin](https://www.linkedin.com/in/marciodiaz/)
+** Episodes** | * [https://www.youtube.com/watch?v=e0oZRmzFSmQ&t=8s](#19 Intro to Polkadot and Substrate)
 
-**Organization:** [Parity Technologies](https://www.parity.io/)
-
-**Interests:**: polkadot, decentralized web development
-
-**More info:**: [linkedin](https://www.linkedin.com/in/marciodiaz/)
-
-**Episodes:**
-
-* [https://www.youtube.com/watch?v=e0oZRmzFSmQ&t=8s](#19 Intro to Polkadot and Substrate)
 
 ## Douglas Farrow
 
