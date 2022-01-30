@@ -41,7 +41,19 @@ title: Guests
 
 ## Patrick Joyce
 
+**Position** | Co-Founder & CEO 
+**Organization**|  [ResearchHub](https://twitter.com/ResearchHub)
+**Interests** | blockchain, academic research 
+**More info** | [twitter](https://twitter.com/joycesticks)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=VN8DsOqwbfI">#11 Accelerating Scientific Discovery w/ Research Hub</a></li></ul>{:/}
+
 ## Nikos Karalias
+
+**Position** | PhD Student 
+**Organization**|  [EPFL](https://www.epfl.ch/en/)
+**Interests** | graph theory, machine learning, combinatorial optimization 
+**More info** | [twitter](https://twitter.com/AspectStalence)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=QhH5kWNU9f4">#13'Erdos Goes Neural' NeurIPS Paper Discussion</a></li></ul>{:/}
 
 ## Vincent Mallet
 
