@@ -8,8 +8,9 @@ title: Guests
 **Position:** Professor of Computer Science
 **Institute:**: McGill University
 **Research interests:** cryptography, quantum computing
+**More info:**: [homepage](https://www.cs.mcgill.ca/~crepeau/index_en.html)
 **Episodes:**:
-	* [#24 Relativistic zero-knowledge proofs]()
+	* [#24 Relativistic zero-knowledge proofs](https://thepearreview.com/relativistic-zero-knowledge-proofs.html)
 
 ## Marcio Diaz
 
