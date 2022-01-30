@@ -32,6 +32,13 @@ title: Guests
 
 ## Massimiliano Iseppon
 
+**Position** | Emergency Physician, MD 
+**Organization**|  [Maisonneuve-Rosemont Hospital](https://www.maisonneuve-rosemont.org/)
+**Interests** | EKGs, hyperbaric medicine 
+**More info** | [twitter](https://twitter.com/IsepponEM)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=GX-zT1cwxGs">#26 A View of COVID-19 from the Hospitals</a></li></ul>{:/}
+
+
 ## Patrick Joyce
 
 ## Nikos Karalias
