@@ -5,6 +5,12 @@ title: Guests
 
 ## Claude Crepeau
 
+**Position:** Professor of Computer Science
+**Institute:**: McGill University
+**Research interests:** cryptography, quantum computing
+**Episodes:**:
+	* [#24 Relativistic zero-knowledge proofs]()
+
 ## Marcio Diaz
 
 ## Douglas Farrow
