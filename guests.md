@@ -57,7 +57,19 @@ title: Guests
 
 ## Vincent Mallet
 
+**Position** | PhD Student 
+**Organization**|  [Les Mines ParisTech](https://www.paristech.fr/en/homepage), [Institut Pasteur](https://www.pasteur.fr/en)
+**Interests** | bioinformatics, deep learning, group theory 
+**More info** | [google scholar](https://scholar.google.com/citations?user=bSlWpRUAAAAJ&hl=en)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/equivariant-neural-layers-for-dna.html">#23 Equivariant Neural Nets for DNA & Group Theory</a></li></ul>{:/}
+
 ## Spiro Pantazatos
+
+**Position** | Assistant Professor of Clinical Neurobiology 
+**Organization**|  [Columbia University](https://www.columbia.edu/)
+**Interests** | psychiatry, neurobiology, data science 
+**More info** | [homepage](https://www.columbiapsychiatry.org/profile/spiro-pantazatos-phd), [researchgate](https://www.researchgate.net/profile/Spiro-Pantazatos)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/vaccination-risk-benefit-analysis.html">#27 : Risk-benefit analysis for COVID vaccination</a></li></ul>{:/}
 
 ## Alessandro Ricottone
 
