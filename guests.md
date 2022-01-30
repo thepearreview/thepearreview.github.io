@@ -9,7 +9,7 @@ title: Guests
 **Organization** | [McGill University](https://www.mcgill.ca/)
 **Interests** | cryptography, quantum computing
 **More info** | [homepage](https://www.cs.mcgill.ca/~crepeau/index_en.html)
-**Episodes** | <ul><li>[#24 Relativistic zero-knowledge proofs](https://thepearreview.com/relativistic-zero-knowledge-proofs.html)</li></ul>
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/relativistic-zero-knowledge-proofs.html">#24 Relativistic zero-knowledge proofs</a></li></ul>{:/}
 
 
 ## Marcio Diaz
@@ -18,7 +18,7 @@ title: Guests
 **Organization**|  [Parity Technologies](https://www.parity.io/)
 **Interests** | polkadot, decentralized web development
 **More info** | [linkedin](https://www.linkedin.com/in/marciodiaz/)
-**Episodes** | <ul> <li>[https://www.youtube.com/watch?v=e0oZRmzFSmQ&t=8s](#19 Intro to Polkadot and Substrate)</li></ul>
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=e0oZRmzFSmQ">#19 Intro to Polkadot and Substrate</a></li></ul>{:/}
 
 
 ## Douglas Farrow
