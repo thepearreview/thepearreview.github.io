@@ -3,6 +3,16 @@ layout: page
 title: Guests 
 ---
 
+## Hessam Akhlaghpour 
+
+|| <img width="300px" src="/assets/hessam.png"> 
+**Position** | Postdoctoral Researcher 
+**Organization** | [Rockefeller University](https://www.rockefeller.edu/)
+**Interests** | neuroscience, path integration, computational theory 
+**More info** | [blog](https://www.lifeiscomputation.com/), [twitter](https://twitter.com/theHessam)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/rna-and-the-universal-computer.html">#28 RNA & The Universal Natural Computer</a></li></ul>{:/}
+
+
 ## Claude Crepeau
 
 || <img width="300px" src="/assets/crepeau.png"> 
