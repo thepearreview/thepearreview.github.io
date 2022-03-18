@@ -12,8 +12,13 @@ layout: default
 
 {% assign items_grouped = site.posts | group_by: 'category' %}
 {% for group in items_grouped %}
+
 ## {{group.name}}
+
 {% for item in group.items %}
+
 * [{{item.title}}]({{ item.url }})
+
 {% endfor %}
+
 {% endfor %}
