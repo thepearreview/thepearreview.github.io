@@ -10,7 +10,7 @@ layout: default
 
 <h1> Episodes by Category </h1>
 
-{% assign items_grouped = site.posts | group_by: 'topic' %}
+{% assign items_grouped = site.posts | group_by: 'category' %}
 {% for group in items_grouped %}
 ## {{group.name}}
 {% for item in group.items %}
