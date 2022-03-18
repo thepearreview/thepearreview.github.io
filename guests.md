@@ -52,6 +52,16 @@ title: Guests
 **More info** | [twitter](https://twitter.com/joycesticks)
 **Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=VN8DsOqwbfI">#11 Accelerating Scientific Discovery w/ Research Hub</a></li></ul>{:/}
 
+## Meng Kang
+
+|| <img width="300px" src="/assets/meng.jpeg"> 
+**Position** | Master's Student (Graduated) 
+**Organization**|  [University of British Columbia](https://blockchain.ubc.ca/)
+**Interests** | blockchain, privacy 
+**More info** | [homepage](https://blockchain.ubc.ca/people/meng-kang)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/the-data-double-spend.html">#29 Tackling the Data Double Spend</a></li></ul>{:/}
+
+
 ## Nikos Karalias
 
 || <img width="300px" src="/assets/nikos.png"> 
@@ -60,6 +70,15 @@ title: Guests
 **Interests** | graph theory, machine learning, combinatorial optimization 
 **More info** | [twitter](https://twitter.com/AspectStalence)
 **Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=QhH5kWNU9f4">#13'Erdos Goes Neural' NeurIPS Paper Discussion</a></li></ul>{:/}
+
+## Dr. Victoria Lemieux 
+
+|| <img width="300px" src="/assets/victoria-lemieux.jpeg"> 
+**Position** | Associate Professor
+**Organization**|  [University of British Columbia](https://blockchain.ubc.ca/)
+**Interests** | blockchain, privacy 
+**More info** | [homepage](https://blockchain.ubc.ca/people/victoria-lemieux)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/the-data-double-spend.html">#29 Tackling the Data Double Spend</a></li></ul>{:/}
 
 ## Vincent Mallet
 
