@@ -81,7 +81,7 @@ title: Guests
 **More info** | [twitter](https://twitter.com/AspectStalence)
 **Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=QhH5kWNU9f4">#13'Erdos Goes Neural' NeurIPS Paper Discussion</a></li></ul>{:/}
 
-## Dr. Victoria Lemieux 
+## Victoria Lemieux 
 
 || <img width="300px" src="/assets/victoria-lemieux.jpeg"> 
 **Position** | Associate Professor
