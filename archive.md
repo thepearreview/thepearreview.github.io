@@ -3,7 +3,7 @@ layout: archive
 title: Archive
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>All Episodes</h1>
 
 {%-include post_list.html category=page.which_category-%}
 
