@@ -3,7 +3,7 @@ layout: post
 category: cryptography 
 ---
 
-# #24 : Relativistic Zero-Knowledge Proofs | Claude Crepeau, Professor of Computer Sciencej
+# #24 : Relativistic Zero-Knowledge Proofs | Claude Crepeau, Professor of Computer Science
 
 We are joined by Computer Science Professor, Claude Crepeau. Prof. Crepeau is a world-renowned expert in the field of cryptography. In this episode, we discussed one of his latest works which was published in Nature which demonstrates a real-world implementation of zero knowledge proofs which draw on their security from principles of relativity.
 
