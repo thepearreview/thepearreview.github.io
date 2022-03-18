@@ -10,7 +10,9 @@ Meng Kang and Prof. Victoria Lemieux work at the University of British Columbia 
 [Article](https://www.ledgerjournal.org/ojs/ledger/article/view/239)
 
 [Meng Kang Homepage](https://blockchain.ubc.ca/people/meng-kang)
+
 [Dr. Victoria Lemieux](https://blockchain.ubc.ca/people/victoria-lemieux)
+
 [UBC Blockchain Research Cluster](https://blockchain.ubc.ca/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-yQF5NZptg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
