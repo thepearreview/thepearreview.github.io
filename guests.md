@@ -3,6 +3,17 @@ layout: page
 title: Guests 
 ---
 
+## Dorian S. Abbot 
+
+|| <img width="300px" src="/assets/dorian.png"> 
+**Position** | Associate Professor 
+**Organization** | [University of Chicago](http://uchicago.edu/)
+**Interests** | climate dynamics, paleoclimate, exoplanets 
+**More info** | [personal page](https://geosci.uchicago.edu/people/dorian-abbot/), [twitter](https://twitter.com/DorianAbbot), [Heterodox STEM](https://hxstem.substack.com/)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/rna-and-the-universal-computer.html">#28 RNA & The Universal Natural Computer</a></li></ul>{:/}
+
+
+
 ## Hessam Akhlaghpour 
 
 || <img width="300px" src="/assets/hessam.png"> 
@@ -30,6 +41,15 @@ title: Guests
 **Organization**|  [Parity Technologies](https://www.parity.io/)
 **Interests** | polkadot, decentralized web development
 **More info** | [linkedin](https://www.linkedin.com/in/marciodiaz/)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=e0oZRmzFSmQ">#19 Intro to Polkadot and Substrate</a></li></ul>{:/}
+
+## Wesley S. Farrell 
+
+|| <img width="300px" src="/assets/wes.png"> 
+**Position** | Assistant Professor 
+**Organization**|  [U.S. Naval Academy](https://www.usna.edu/homepage.php)
+**Interests** | organometallic chemistry, polymer chemistry, catalysis 
+**More info** | [publications](https://scholar.google.com/citations?user=oPz7y4IAAAAJ&hl=en&oi=sra)
 **Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=e0oZRmzFSmQ">#19 Intro to Polkadot and Substrate</a></li></ul>{:/}
 
 
@@ -107,6 +127,16 @@ title: Guests
 **Interests** | psychiatry, neurobiology, data science 
 **More info** | [personal page](https://www.columbiapsychiatry.org/profile/spiro-pantazatos-phd), [researchgate](https://www.researchgate.net/profile/Spiro-Pantazatos)
 **Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/vaccination-risk-benefit-analysis.html">#27 : Risk-benefit analysis for COVID vaccination</a></li></ul>{:/}
+
+## Daniel Selvaratnam 
+
+|| <img width="300px" src="/assets/daniel.png"> 
+**Position** | Postdoctoral Researcher 
+**Organization**|  [University of Melbourne](https://www.unimelb.edu.au/)
+**Interests** | optimization, control systems 
+**More info** | [publications](https://scholar.google.com/citations?user=dvvVHS4AAAAJ&hl=en)
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/vaccination-risk-benefit-analysis.html">#27 : Risk-benefit analysis for COVID vaccination</a></li></ul>{:/}
+
 
 ## Jakub Sliwinski
 
