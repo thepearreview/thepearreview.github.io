@@ -10,7 +10,7 @@ title: Guests
 **Organization** | [University of Chicago](http://uchicago.edu/)
 **Interests** | climate dynamics, paleoclimate, exoplanets 
 **More info** | [personal page](https://geosci.uchicago.edu/people/dorian-abbot/), [twitter](https://twitter.com/DorianAbbot), [Heterodox STEM](https://hxstem.substack.com/)
-**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/rna-and-the-universal-computer.html">#28 RNA & The Universal Natural Computer</a></li></ul>{:/}
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/religion-and-science.html">#30 The Role of Faith and Religion in Science</a></li></ul>{:/}
 
 
 
@@ -50,7 +50,7 @@ title: Guests
 **Organization**|  [U.S. Naval Academy](https://www.usna.edu/homepage.php)
 **Interests** | organometallic chemistry, polymer chemistry, catalysis 
 **More info** | [publications](https://scholar.google.com/citations?user=oPz7y4IAAAAJ&hl=en&oi=sra)
-**Episodes** | {::nomarkdown}<ul><li><a href="https://www.youtube.com/watch?v=e0oZRmzFSmQ">#19 Intro to Polkadot and Substrate</a></li></ul>{:/}
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/religion-and-science.html">#30 The Role of Faith and Religion in Science</a></li></ul>{:/}
 
 
 ## Douglas Farrow
@@ -135,7 +135,7 @@ title: Guests
 **Organization**|  [University of Melbourne](https://www.unimelb.edu.au/)
 **Interests** | optimization, control systems 
 **More info** | [publications](https://scholar.google.com/citations?user=dvvVHS4AAAAJ&hl=en)
-**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/vaccination-risk-benefit-analysis.html">#27 : Risk-benefit analysis for COVID vaccination</a></li></ul>{:/}
+**Episodes** | {::nomarkdown}<ul><li><a href="https://thepearreview.com/religion-and-science.html">#30 The Role of Faith and Religion in Science</a></li></ul>{:/}
 
 
 ## Jakub Sliwinski
